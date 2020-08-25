@@ -1,0 +1,15 @@
+me\zhengjie\service\mapstruct\LogSmallMapperImpl.class
+me\zhengjie\service\dto\LogSmallDTO.class
+me\zhengjie\aspect\LogAspect.class
+me\zhengjie\domain\Log.class
+me\zhengjie\repository\LogRepository.class
+me\zhengjie\service\mapstruct\LogSmallMapper.class
+me\zhengjie\service\impl\LogServiceImpl.class
+me\zhengjie\annotation\type\LogActionType.class
+me\zhengjie\annotation\Log.class
+me\zhengjie\service\mapstruct\LogErrorMapperImpl.class
+me\zhengjie\rest\LogController.class
+me\zhengjie\service\dto\LogQueryCriteria.class
+me\zhengjie\service\dto\LogErrorDTO.class
+me\zhengjie\service\mapstruct\LogErrorMapper.class
+me\zhengjie\service\LogService.class

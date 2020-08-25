@@ -1,0 +1,13 @@
+me\zhengjie\service\impl\GenConfigServiceImpl.class
+me\zhengjie\utils\GenUtil.class
+me\zhengjie\service\GenConfigService.class
+me\zhengjie\domain\GenConfig.class
+me\zhengjie\domain\ColumnInfo.class
+me\zhengjie\repository\GenConfigRepository.class
+me\zhengjie\rest\GenConfigController.class
+me\zhengjie\rest\GeneratorController.class
+me\zhengjie\utils\ColUtil.class
+me\zhengjie\domain\vo\TableInfo.class
+me\zhengjie\service\GeneratorService.class
+me\zhengjie\repository\ColumnInfoRepository.class
+me\zhengjie\service\impl\GeneratorServiceImpl.class
